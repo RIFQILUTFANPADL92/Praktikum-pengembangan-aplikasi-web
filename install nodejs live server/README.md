@@ -2,8 +2,8 @@ install node.js
 
 install npm live-server dengan menegetik npm install -g live-server di cmd
 
-install extension live server di visual studio code
+membuat program hello world sederhana
 
-membuat file hello world
+install extension live server di visual studio code
 
 mengklik button "Go Live" di Visual Studio Code untuk mengaktifkan server 
